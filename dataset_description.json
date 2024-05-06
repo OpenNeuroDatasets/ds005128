@@ -1,0 +1,11 @@
+{
+  "Name": "Deception Signaling Task",
+  "BIDSVersion": "1.4.4",
+  "Authors": [
+    "Sangil Lee",
+    "Runxuan Niu",
+    "Lusha Zhu",
+    "Andrew Kayser",
+    "Ming Hsu"
+  ]
+}
